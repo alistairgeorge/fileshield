@@ -1,4 +1,3 @@
-```markdown
 # FileShield 
 
 FileShield is a **file integrity verification tool** written in Python.  
@@ -17,7 +16,6 @@ Results are displayed in a Tkinter GUI with colour‑coded output and logged for
 ---
 
 ## Repository Structure
-```
 fileshield/
 ├── baseline.py        # Create baseline JSON
 ├── verify.py          # Verify files against baseline
