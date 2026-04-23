@@ -16,6 +16,7 @@ Features
 ------------------------------------------------------------
 
 Repository Structure
+```
 fileshield/
 ├── baseline.py        # Create baseline JSON
 ├── verify.py          # Verify files against baseline
@@ -26,6 +27,7 @@ fileshield/
 ├── baseline.json      # Example baseline file
 ├── verification.log   # Example log output
 └── logs/              # Directory for log files
+```
 
 ------------------------------------------------------------
 
